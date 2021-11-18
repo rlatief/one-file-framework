@@ -7,7 +7,7 @@ $ast = new ast;
 
 $ast->inDevelopment( true );
 
-$ast->conf['sitename']       = 'Site Name';
+$ast->conf['sitename']        = 'Site Name';
 $ast->conf['version']         = '0.0.1';
 $ast->conf['domain']          = 'dev.randomlog.org';
 $ast->conf['sitefolder']      = '/folder';
